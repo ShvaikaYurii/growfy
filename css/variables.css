@@ -1,0 +1,10 @@
+:root {
+  --headers-text-color: #FFF;
+  --text-color: #9C9C9C;
+  --small-text-color: #81818B;
+  --background-color: #0D0D11;
+  --btn-primary-color: #3D96F4;
+  --btn-secondary-color: rgba(129, 129, 139, 0.20);
+
+  /* var(--primary-text-color); */
+}
